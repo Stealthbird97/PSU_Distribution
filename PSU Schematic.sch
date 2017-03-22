@@ -11241,7 +11241,7 @@ W = angled&lt;p&gt;
 <part name="H3" library="holes" deviceset="MOUNT-PAD-ROUND" device="4.1" value="MOUNT-PAD-ROUND4.1"/>
 <part name="R4" library="pot" deviceset="TRIM_EU-" device="RJ9W" value="T93YA"/>
 <part name="GND5" library="supply1" deviceset="GND" device=""/>
-<part name="U$2" library="con-lstb" deviceset="SINGLE" device=""/>
+<part name="CS" library="con-lstb" deviceset="SINGLE" device=""/>
 <part name="R3" library="pot" deviceset="TRIM_EU-" device="RJ9W" value="T93YA"/>
 </parts>
 <sheets>
@@ -11269,7 +11269,7 @@ W = angled&lt;p&gt;
 <instance part="H3" gate="G$1" x="-15.24" y="66.04" rot="R180"/>
 <instance part="R4" gate="1" x="109.22" y="58.42" rot="R180"/>
 <instance part="GND5" gate="1" x="99.06" y="-12.7" rot="R270"/>
-<instance part="U$2" gate="G$1" x="86.36" y="35.56" rot="R180"/>
+<instance part="CS" gate="G$1" x="86.36" y="35.56" rot="R180"/>
 <instance part="R3" gate="1" x="109.22" y="-17.78" rot="R180"/>
 </instances>
 <busses>
@@ -11537,7 +11537,7 @@ W = angled&lt;p&gt;
 <net name="CURRENTSHARE" class="0">
 <segment>
 <pinref part="U$1" gate="G$1" pin="SIG11"/>
-<pinref part="U$2" gate="G$1" pin="3"/>
+<pinref part="CS" gate="G$1" pin="3"/>
 <wire x1="63.5" y1="33.02" x2="78.74" y2="33.02" width="0.1524" layer="91"/>
 </segment>
 </net>
