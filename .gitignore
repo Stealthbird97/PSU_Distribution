@@ -41,3 +41,22 @@ eagle.epf
 
 # file locks introduced since 7.x
 *.lck
+*.GBL
+
+*.GBO
+
+*.GBP
+
+*.GBS
+
+*.GML
+
+*.GTL
+
+*.GTO
+
+*.GTP
+
+*.GTS
+
+*.TXT
