@@ -144,9 +144,9 @@
 <wire x1="3.41420625" y1="100" x2="0" y2="96.58579375" width="0.4064" layer="20" curve="90"/>
 <wire x1="0" y1="96.58579375" x2="0" y2="0" width="0.4064" layer="20"/>
 <wire x1="0" y1="0" x2="50.3" y2="0" width="0.4064" layer="20"/>
-<text x="41" y="35" size="1.778" layer="25" align="bottom-right">HP DPS-600
-Distribution
-M0YCH</text>
+<text x="40" y="35" size="1.778" layer="25" align="bottom-right">HP DPS-600
+Distribution Brd
+</text>
 <polygon width="0.4064" layer="30">
 <vertex x="30" y="14"/>
 <vertex x="41" y="14"/>
@@ -191,6 +191,8 @@ M0YCH</text>
 <vertex x="39" y="81"/>
 <vertex x="39" y="88"/>
 </polygon>
+<text x="1" y="73" size="1.778" layer="25" rot="R270">M0YCH
+radio-noise.net</text>
 </plain>
 <libraries>
 <library name="PowerEdge">
