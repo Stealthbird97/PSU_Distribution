@@ -142,56 +142,56 @@
 <packages>
 <package name="51730-073LF">
 <description>Poweredge Connector</description>
-<hole x="46.08" y="7.62" drill="4.01"/>
-<hole x="4.22" y="7.62" drill="4.01"/>
-<pad name="G11_1" x="39.76" y="12.7" drill="1.1" shape="square" rot="R180"/>
-<pad name="G12_1" x="37.22" y="12.7" drill="1.1" shape="square" rot="R180"/>
-<pad name="G21_1" x="33.41" y="12.7" drill="1.1" shape="square" rot="R180"/>
-<pad name="G22_1" x="30.87" y="12.7" drill="1.1" shape="square" rot="R180"/>
-<pad name="SIG1" x="27.69" y="12.7" drill="1.1" shape="square" rot="R180"/>
-<pad name="SIG2" x="25.15" y="12.7" drill="1.1" shape="square" rot="R180"/>
-<pad name="SIG3" x="22.61" y="12.7" drill="1.1" shape="square" rot="R180"/>
-<pad name="12V11_1" x="19.43" y="12.7" drill="1.1" shape="square" rot="R180"/>
-<pad name="12V12_1" x="16.89" y="12.7" drill="1.1" shape="square" rot="R180"/>
-<pad name="12V21_1" x="13.08" y="12.7" drill="1.1" shape="square" rot="R180"/>
-<pad name="12V22_1" x="10.54" y="12.7" drill="1.1" shape="square" rot="R180"/>
-<pad name="G11_2" x="39.76" y="10.16" drill="1.1" shape="square" rot="R180"/>
-<pad name="G12_2" x="37.22" y="10.16" drill="1.1" shape="square" rot="R180"/>
-<pad name="G21_2" x="33.41" y="10.16" drill="1.1" shape="square" rot="R180"/>
-<pad name="G22_2" x="30.87" y="10.16" drill="1.1" shape="square" rot="R180"/>
-<pad name="SIG4" x="27.69" y="10.16" drill="1.1" shape="square" rot="R180"/>
-<pad name="SIG5" x="25.15" y="10.16" drill="1.1" shape="square" rot="R180"/>
-<pad name="SIG6" x="22.61" y="10.16" drill="1.1" shape="square" rot="R180"/>
-<pad name="12V11_2" x="19.43" y="10.16" drill="1.1" shape="square" rot="R180"/>
-<pad name="12V12_2" x="16.89" y="10.16" drill="1.1" shape="square" rot="R180"/>
-<pad name="12V21_2" x="13.08" y="10.16" drill="1.1" shape="square" rot="R180"/>
-<pad name="12V22_2" x="10.54" y="10.16" drill="1.1" shape="square" rot="R180"/>
-<pad name="G11_3" x="39.76" y="7.62" drill="1.1" shape="square" rot="R180"/>
-<pad name="G12_3" x="37.22" y="7.62" drill="1.1" shape="square" rot="R180"/>
-<pad name="G21_3" x="33.41" y="7.62" drill="1.1" shape="square" rot="R180"/>
-<pad name="G22_3" x="30.87" y="7.62" drill="1.1" shape="square" rot="R180"/>
-<pad name="SIG7" x="27.69" y="7.62" drill="1.1" shape="square" rot="R180"/>
-<pad name="SIG8" x="25.15" y="7.62" drill="1.1" shape="square" rot="R180"/>
-<pad name="SIG9" x="22.61" y="7.62" drill="1.1" shape="square" rot="R180"/>
-<pad name="12V11_3" x="19.43" y="7.62" drill="1.1" shape="square" rot="R180"/>
-<pad name="12V12_3" x="16.89" y="7.62" drill="1.1" shape="square" rot="R180"/>
-<pad name="12V21_3" x="13.08" y="7.62" drill="1.1" shape="square" rot="R180"/>
-<pad name="12V22_3" x="10.54" y="7.62" drill="1.1" shape="square" rot="R180"/>
-<pad name="G11_4" x="39.76" y="5.08" drill="1.1" shape="square" rot="R180"/>
-<pad name="G12_4" x="37.22" y="5.08" drill="1.1" shape="square" rot="R180"/>
-<pad name="G21_4" x="33.41" y="5.08" drill="1.1" shape="square" rot="R180"/>
-<pad name="G22_4" x="30.87" y="5.08" drill="1.1" shape="square" rot="R180"/>
-<pad name="SIG10" x="27.69" y="5.08" drill="1.1" shape="square" rot="R180"/>
-<pad name="SIG11" x="25.15" y="5.08" drill="1.1" shape="square" rot="R180"/>
-<pad name="SIG12" x="22.61" y="5.08" drill="1.1" shape="square" rot="R180"/>
-<pad name="12V11_4" x="19.43" y="5.08" drill="1.1" shape="square" rot="R180"/>
-<pad name="12V12_4" x="16.89" y="5.08" drill="1.1" shape="square" rot="R180"/>
-<pad name="12V21_4" x="13.08" y="5.08" drill="1.1" shape="square" rot="R180"/>
-<pad name="12V22_4" x="10.54" y="5.08" drill="1.1" shape="square" rot="R180"/>
-<wire x1="50.3" y1="0" x2="50.3" y2="16.76" width="0.127" layer="22"/>
-<wire x1="50.3" y1="16.76" x2="0.01" y2="16.76" width="0.127" layer="22"/>
-<wire x1="0.01" y1="16.76" x2="0.01" y2="0" width="0.127" layer="22"/>
-<wire x1="0.01" y1="0" x2="50.3" y2="0" width="0.127" layer="22"/>
+<hole x="46.1" y="6.35" drill="2.49"/>
+<hole x="4.19" y="6.35" drill="2.49"/>
+<pad name="G11_1" x="39.75" y="11.43" drill="1.15" shape="square" rot="R180"/>
+<pad name="G12_1" x="37.21" y="11.43" drill="1.15" shape="square" rot="R180"/>
+<pad name="G21_1" x="33.4" y="11.43" drill="1.15" shape="square" rot="R180"/>
+<pad name="G22_1" x="30.86" y="11.43" drill="1.15" shape="square" rot="R180"/>
+<pad name="SIG1" x="27.69" y="11.43" drill="1.15" shape="square" rot="R180"/>
+<pad name="SIG2" x="25.15" y="11.43" drill="1.15" shape="square" rot="R180"/>
+<pad name="SIG3" x="22.61" y="11.43" drill="1.15" shape="square" rot="R180"/>
+<pad name="12V11_1" x="19.43" y="11.43" drill="1.15" shape="square" rot="R180"/>
+<pad name="12V12_1" x="16.89" y="11.43" drill="1.15" shape="square" rot="R180"/>
+<pad name="12V21_1" x="13.08" y="11.43" drill="1.15" shape="square" rot="R180"/>
+<pad name="12V22_1" x="10.54" y="11.43" drill="1.15" shape="square" rot="R180"/>
+<pad name="G11_2" x="39.75" y="8.89" drill="1.15" shape="square" rot="R180"/>
+<pad name="G12_2" x="37.21" y="8.89" drill="1.15" shape="square" rot="R180"/>
+<pad name="G21_2" x="33.4" y="8.89" drill="1.15" shape="square" rot="R180"/>
+<pad name="G22_2" x="30.86" y="8.89" drill="1.15" shape="square" rot="R180"/>
+<pad name="SIG4" x="27.69" y="8.89" drill="1.15" shape="square" rot="R180"/>
+<pad name="SIG5" x="25.15" y="8.89" drill="1.15" shape="square" rot="R180"/>
+<pad name="SIG6" x="22.61" y="8.89" drill="1.15" shape="square" rot="R180"/>
+<pad name="12V11_2" x="19.43" y="8.89" drill="1.15" shape="square" rot="R180"/>
+<pad name="12V12_2" x="16.89" y="8.89" drill="1.15" shape="square" rot="R180"/>
+<pad name="12V21_2" x="13.08" y="8.89" drill="1.15" shape="square" rot="R180"/>
+<pad name="12V22_2" x="10.54" y="8.89" drill="1.15" shape="square" rot="R180"/>
+<pad name="G11_3" x="39.75" y="6.35" drill="1.15" shape="square" rot="R180"/>
+<pad name="G12_3" x="37.21" y="6.35" drill="1.15" shape="square" rot="R180"/>
+<pad name="G21_3" x="33.4" y="6.35" drill="1.15" shape="square" rot="R180"/>
+<pad name="G22_3" x="30.86" y="6.35" drill="1.15" shape="square" rot="R180"/>
+<pad name="SIG7" x="27.69" y="6.35" drill="1.15" shape="square" rot="R180"/>
+<pad name="SIG8" x="25.15" y="6.35" drill="1.15" shape="square" rot="R180"/>
+<pad name="SIG9" x="22.61" y="6.35" drill="1.15" shape="square" rot="R180"/>
+<pad name="12V11_3" x="19.43" y="6.35" drill="1.15" shape="square" rot="R180"/>
+<pad name="12V12_3" x="16.89" y="6.35" drill="1.15" shape="square" rot="R180"/>
+<pad name="12V21_3" x="13.08" y="6.35" drill="1.15" shape="square" rot="R180"/>
+<pad name="12V22_3" x="10.54" y="6.35" drill="1.15" shape="square" rot="R180"/>
+<pad name="G11_4" x="39.75" y="3.81" drill="1.15" shape="square" rot="R180"/>
+<pad name="G12_4" x="37.21" y="3.81" drill="1.15" shape="square" rot="R180"/>
+<pad name="G21_4" x="33.4" y="3.81" drill="1.15" shape="square" rot="R180"/>
+<pad name="G22_4" x="30.86" y="3.81" drill="1.15" shape="square" rot="R180"/>
+<pad name="SIG10" x="27.69" y="3.81" drill="1.15" shape="square" rot="R180"/>
+<pad name="SIG11" x="25.15" y="3.81" drill="1.15" shape="square" rot="R180"/>
+<pad name="SIG12" x="22.61" y="3.81" drill="1.15" shape="square" rot="R180"/>
+<pad name="12V11_4" x="19.43" y="3.81" drill="1.15" shape="square" rot="R180"/>
+<pad name="12V12_4" x="16.89" y="3.81" drill="1.15" shape="square" rot="R180"/>
+<pad name="12V21_4" x="13.08" y="3.81" drill="1.15" shape="square" rot="R180"/>
+<pad name="12V22_4" x="10.54" y="3.81" drill="1.15" shape="square" rot="R180"/>
+<wire x1="50.29" y1="0" x2="50.29" y2="15.49" width="0.127" layer="22"/>
+<wire x1="50.29" y1="15.49" x2="0" y2="15.49" width="0.127" layer="22"/>
+<wire x1="0" y1="15.49" x2="0" y2="0" width="0.127" layer="22"/>
+<wire x1="0" y1="0" x2="50.29" y2="0" width="0.127" layer="22"/>
 </package>
 </packages>
 <symbols>
