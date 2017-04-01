@@ -150,12 +150,12 @@ Distribution Brd
 <polygon width="0.4064" layer="30">
 <vertex x="30" y="12"/>
 <vertex x="40" y="12"/>
-<vertex x="40" y="4"/>
-<vertex x="30" y="4"/>
+<vertex x="40" y="3"/>
+<vertex x="30" y="3"/>
 </polygon>
 <polygon width="0.4064" layer="30">
-<vertex x="10" y="4"/>
-<vertex x="20" y="4"/>
+<vertex x="10" y="3"/>
+<vertex x="20" y="3"/>
 <vertex x="20" y="12"/>
 <vertex x="10" y="12"/>
 </polygon>
