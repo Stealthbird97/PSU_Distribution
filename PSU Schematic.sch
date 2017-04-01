@@ -11294,23 +11294,11 @@ W = angled&lt;p&gt;
 </net>
 <net name="5VCC" class="0">
 <segment>
-<pinref part="R4" gate="1" pin="S"/>
-<wire x1="127" y1="91.44" x2="162.56" y2="91.44" width="0.1524" layer="91"/>
-<wire x1="167.64" y1="76.2" x2="162.56" y2="76.2" width="0.1524" layer="91"/>
-<wire x1="162.56" y1="76.2" x2="162.56" y2="91.44" width="0.1524" layer="91"/>
+<wire x1="127" y1="91.44" x2="172.72" y2="91.44" width="0.1524" layer="91"/>
 <pinref part="U$2" gate="G$1" pin="SIG3"/>
 <junction x="127" y="91.44"/>
-</segment>
-</net>
-<net name="VCTRL" class="0">
-<segment>
-<wire x1="190.5" y1="60.96" x2="127" y2="60.96" width="0.1524" layer="91"/>
-<wire x1="190.5" y1="60.96" x2="190.5" y2="88.9" width="0.1524" layer="91"/>
-<wire x1="190.5" y1="88.9" x2="172.72" y2="88.9" width="0.1524" layer="91"/>
 <pinref part="R4" gate="1" pin="A"/>
-<wire x1="172.72" y1="88.9" x2="172.72" y2="81.28" width="0.1524" layer="91"/>
-<pinref part="U$2" gate="G$1" pin="SIG9"/>
-<junction x="127" y="60.96"/>
+<wire x1="172.72" y1="91.44" x2="172.72" y2="81.28" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="PPV1" class="0">
@@ -11547,6 +11535,24 @@ W = angled&lt;p&gt;
 <pinref part="U$2" gate="G$1" pin="SIG11"/>
 <wire x1="127" y1="50.8" x2="142.24" y2="50.8" width="0.1524" layer="91"/>
 <junction x="127" y="50.8"/>
+</segment>
+</net>
+<net name="N$1" class="0">
+<segment>
+<pinref part="R4" gate="1" pin="E"/>
+<wire x1="172.72" y1="71.12" x2="149.86" y2="71.12" width="0.1524" layer="91"/>
+<wire x1="149.86" y1="71.12" x2="149.86" y2="81.28" width="0.1524" layer="91"/>
+<pinref part="U$2" gate="G$1" pin="SIG5"/>
+<wire x1="149.86" y1="81.28" x2="127" y2="81.28" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$2" class="0">
+<segment>
+<pinref part="R4" gate="1" pin="S"/>
+<wire x1="167.64" y1="76.2" x2="154.94" y2="76.2" width="0.1524" layer="91"/>
+<wire x1="154.94" y1="76.2" x2="154.94" y2="60.96" width="0.1524" layer="91"/>
+<pinref part="U$2" gate="G$1" pin="SIG9"/>
+<wire x1="154.94" y1="60.96" x2="127" y2="60.96" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
